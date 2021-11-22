@@ -43,3 +43,33 @@ TODO, if applicable (N/A)
 
 # I will need to research different platforms that may be used to make this game. I might need to figure out how to animate a cookie opening and find animated buttons to make the game look less primal. 
 # I should start looking at different softwares to use in order to make this. Renpy, Pygame, and Unity are all viable resources. I am very interested in using Unity to make this game. It would be interesting if it were 3D and 1st or 3rd person.
+
+# Status Report
+
+#### Your name
+
+#### Jason Lahoda
+
+#### Your section leader's name
+
+#### Jason Lahoda
+
+#### Project title
+
+#### Daily Cookie
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+#### I started coding the beginning of it.
+
+#### What have you not done for your project yet?
+
+#### I have not yet designed the game's art or music.
+
+#### What problems, if any, have you encountered?
+
+#### No problems have been encountered.
