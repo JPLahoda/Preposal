@@ -1,5 +1,7 @@
 # Preposal
 
+## VIDEO LINK: https://youtu.be/zcAEGLyeYe0
+
 ## What will (likely) be the title of your project?
 
 # My Fortune Cookie
@@ -73,3 +75,5 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 #### What problems, if any, have you encountered?
 
 #### No problems have been encountered.
+
+## VIDEO LINK: https://youtu.be/zcAEGLyeYe0
